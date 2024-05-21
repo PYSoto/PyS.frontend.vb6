@@ -1,0 +1,14 @@
+mdz-sh/*.vbw
+mdz-sh/*.exe
+mdz-srl/*.vbw
+mdz-srl/*.exe
+mdz-srl/ta.xml
+mdz-sas/*.vbw
+mdz-sas/*.exe
+mdz-sas/ta.xml
+uaq-sh/*.vbw
+uaq-sh/*.exe
+uaq-srl/*.vbw
+uaq-srl/*.exe
+integrador/*.vbw
+integrador/*.exe

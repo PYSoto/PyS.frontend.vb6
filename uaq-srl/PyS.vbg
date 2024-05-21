@@ -1,0 +1,7 @@
+VBGROUP 5.0
+StartupProject=Ventas.vbp
+Project=Compras.vbp
+Project=Contable.vbp
+Project=ReparaDB.vbp
+Project=presupuesto.vbp
+Project=administrador.vbp
